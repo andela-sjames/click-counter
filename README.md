@@ -1,4 +1,4 @@
-# Beginner Web Dev Course for [svjames.com](https://svjames.com/courses)
+# Beginner Web Dev Course
 
 
 ## Module 2: Click Counter
